@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abdelrhman Ahmed</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h3 align="center">I'm a passionate Full Stack Developer from Egypt.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -59,10 +59,10 @@
 
 ## 📊 My Github Stats
 
-  <br/>
-    <a href="https://github.com/abdelrhman-ahmed-kamal/github-readme-stats"><img alt="Abdelrhman Ahmed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdelrhman-ahmed-kamal&show_icons=true&theme=default&" /></a>
-  <a href="https://github.com/abdelrhman-ahmed-kamal/github-readme-stats"><img alt="Adelrhman Ahmed's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrhman-ahmed-kamal&langs_count=8&layout=compact&theme=default&" /></a>
-  <br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrhman-ahmed-kamal&show_icons=true&locale=en&layout=compact" alt="abdelrhman-ahmed-kamal" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrhman-ahmed-kamal&show_icons=true&locale=en" alt="abdelrhman-ahmed-kamal" /></p>
+
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
