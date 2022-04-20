@@ -11,7 +11,7 @@
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 -->
 
-- 🌱 I’m currently learning **HTML and CSS**
+- 🌱 I’m currently learning **Java script**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
