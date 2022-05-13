@@ -54,8 +54,7 @@ streak
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrhman-ahmed-kamal&" alt="abdelrhman-ahmed-kamal" /></p>--> 
 
 ## 📊 My Github Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrhman-ahmed-kamal&show_icons=true&locale=en&layout=compact" alt="abdelrhman-ahmed-kamal" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrhman-ahmed-kamal)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrhman-ahmed-kamal&show_icons=true&locale=en" alt="abdelrhman-ahmed-kamal" /></p>
 
