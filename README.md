@@ -43,6 +43,15 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abdelrhman Ahmed's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrhman-ahmed-kamal&theme=default&hide_border=false&"/>
     </a>
 </p>
+<!-- 
+languages-1
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrhman-ahmed-kamal&show_icons=true&locale=en&layout=compact" alt="abdelrhman-ahmed-kamal" /></p>
+status-1 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrhman-ahmed-kamal&show_icons=true&locale=en" alt="abdelrhman-ahmed-kamal" /></p>
+status-2
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrhman-ahmed-kamal&show_icons=true&locale=en" alt="abdelrhman-ahmed-kamal" /></p>
+streak
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrhman-ahmed-kamal&" alt="abdelrhman-ahmed-kamal" /></p>--> 
 
 ## 📊 My Github Stats
 
