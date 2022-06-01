@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abdelrhman Ahmed</h1>
+<h1 align="center">Hi , I'm Abdelrhman Ahmed</h1>
 <h3 align="center">I'm a passionate Full Stack Web Developer From Egypt.</h3>
 
 
@@ -10,10 +10,10 @@
 
 - 📫 How to reach me **abdelrhman.ahmed.kamal@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://online-website.github.io/portfolio)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://abdelrhman-ahmed-kamal.github.io/portfolio/)**
 
-<!-- - 🔭 I’m currently working on **[]()**
- -->
+- 🔭 I’m currently working on **[Forkify APP]()**
+
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
