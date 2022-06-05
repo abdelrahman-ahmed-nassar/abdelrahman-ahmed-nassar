@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java script**
 
-- 📫 How to reach me **abdelrhman.ahmed.kamal@gmail.com**
+- 📫 How to reach me **abdelrhman.contact@gmail.com**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://abdelrhman-ahmed-kamal.github.io/portfolio/)**
 
