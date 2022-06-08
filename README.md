@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi , I'm Abdelrhman Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Abdelrhman Ahmed</h1>
 <h3 align="center">I'm a passionate Full Stack Web Developer From Egypt.</h3>
 
 
@@ -54,7 +54,7 @@ streak
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrhman-ahmed-kamal&" alt="abdelrhman-ahmed-kamal" /></p>--> 
 
 ## 📊 My Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrhman-ahmed-kamal)](https://github.com/abdlerhman-ahmed-kamal/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrhman-ahmed-kamal)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrhman-ahmed-kamal&show_icons=true&locale=en" alt="abdelrhman-ahmed-kamal" /></p>
 
