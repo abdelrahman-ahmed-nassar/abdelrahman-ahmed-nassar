@@ -6,13 +6,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Java script**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **abdelrhman.contact@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://abdelrhman-ahmed-kamal.github.io/portfolio/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://abdelrahman.website)**
 
-- 🔭 I’m currently working on **[Forkify APP]()**
+- 🔭 I’m currently working on **[To do APP]()**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
