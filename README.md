@@ -9,19 +9,19 @@
 
 ## 🙋‍♂️ About Me
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="250" align="right"  src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Web Devlopment**
 
 - 📫 How to reach me **abdelrhman.contact@gmail.com**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://abdelrahman.website)**
 
-- 🔭 I’m currently working on **[To do APP]()**
+- 🔭 I’m currently working on **[SST Notes App]()**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I play Chess and minecraft**
 
 
 <br/>
@@ -53,15 +53,6 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abdelrhman Ahmed's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrhman-ahmed-kamal&theme=default&hide_border=false&"/>
     </a>
 </p>
-<!-- 
-languages-1
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrhman-ahmed-kamal&show_icons=true&locale=en&layout=compact" alt="abdelrhman-ahmed-kamal" /></p>
-status-1 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrhman-ahmed-kamal&show_icons=true&locale=en" alt="abdelrhman-ahmed-kamal" /></p>
-status-2
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrhman-ahmed-kamal&show_icons=true&locale=en" alt="abdelrhman-ahmed-kamal" /></p>
-streak
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrhman-ahmed-kamal&" alt="abdelrhman-ahmed-kamal" /></p>--> 
 
 
 <br/>
