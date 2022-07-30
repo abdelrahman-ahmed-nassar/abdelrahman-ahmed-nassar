@@ -90,7 +90,9 @@ streak
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/abdelrhman-ahmed-kamal/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=abdelrhman-ahmed-kamal">
-</a>
+
+
+![](https://komarev.com/ghpvc/?username=abdelrhman-ahmed-kamal)
+
+
 <a href="https://github.com/abdelrhman-ahmed-kamal?tab=followers"><img src="https://img.shields.io/github/followers/abdelrhman-ahmed-kamal?label=Followers&style=social" alt="GitHub Badge"></a>
