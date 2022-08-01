@@ -5,13 +5,12 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=fff&vCenter=true&size=22"></a>
 </p> 
 
-
-
 ## 🙋‍♂️ About Me
 
 <img width="250" align="right"  src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 - 🌱 I’m currently learning **Web Devlopment**
+
 
 - 📫 How to reach me **abdelrhman.contact@gmail.com**
 
@@ -59,6 +58,7 @@
 <br/>
 
 ## 📊 My Github Stats
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrhman-ahmed-kamal)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrhman-ahmed-kamal&show_icons=true&locale=en" alt="abdelrhman-ahmed-kamal" /></p>
@@ -71,6 +71,7 @@
 
 
 ## Connect with me:
+
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/abdelrhman-ahmed-kamal-203026233/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
