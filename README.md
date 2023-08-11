@@ -61,8 +61,8 @@
 <br> <br>
 
 <p align="center">
-    <a href="https://github.com/abdelrhman-ahmed-nassar/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abdelrhman Ahmed's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrhman-ahmed-nassar&theme=default&hide_border=false&"/>
+    <a href="https://github.com/abdelrahman-ahmed-nassar/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abdelrhman Ahmed's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahman-ahmed-nassar&theme=default&hide_border=false&"/>
     </a>
 </p>
 
@@ -72,9 +72,9 @@
 
 ## 📊 My Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrhman-ahmed-nassar)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman-ahmed-nassar)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrhman-ahmed-nassar&show_icons=true&locale=en" alt="abdelrhman-ahmed-nassar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrahman-ahmed-nassar&show_icons=true&locale=en" alt="abdelrahman-ahmed-nassar" /></p>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -86,7 +86,7 @@
 ## ❤ Views and Followers
 
 
-![](https://komarev.com/ghpvc/?username=abdelrhman-ahmed-nassar)
+![](https://komarev.com/ghpvc/?username=abdelrahman-ahmed-nassar)
 
 
-<a href="https://github.com/abdelrhman-ahmed-nassar?tab=followers"><img src="https://img.shields.io/github/followers/abdelrhman-ahmed-nassar?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/abdelrahman-ahmed-nassar?tab=followers"><img src="https://img.shields.io/github/followers/abdelrahman-ahmed-nassar?label=Followers&style=social" alt="GitHub Badge"></a>
