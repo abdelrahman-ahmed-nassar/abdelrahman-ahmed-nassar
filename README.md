@@ -9,18 +9,18 @@
 
 <img width="250" align="right"  src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
-- 🌱 I’m currently learning **Web Devlopment**
+- 🌱 I’m currently Working As A **Full Stack Web Developer**
 
 
-- 📫 How to reach me **abdelrhman.contact@gmail.com**
+- 📫 How to reach me **abdelrhman.ahmed.nassar@gmail.com**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://abdelrahman-nassar.netlify.app)**
 
-- 🔭 I’m currently working on **[SST Notes App]()**
+- 🔭 I’m currently working on **[Learning Manegment System]()**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- ⚡ Fun fact **I play Chess and minecraft**
+- ⚡ Fun fact **I play Chess**
 
 
 <br/>
