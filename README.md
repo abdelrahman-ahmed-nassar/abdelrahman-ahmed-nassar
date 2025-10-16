@@ -37,6 +37,13 @@
 
 </p>
 
+<p>
+  <a href="https://abdelrahman-ahmed-nassar.github.io/cv/cv.pdf">
+    <img src="https://img.shields.io/badge/My CV-005520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/></a> &nbsp;
+  <a href="https://abdelrahman-nassar.netlify.app/">
+    <img src="https://img.shields.io/badge/My Portfolio-003580?style=flat-square&logo=linkfire&logoColor=white" style="height:32px; object-fit:contain;"/></a>
+</p>
+
 
 <br/>
 <br/>
@@ -65,6 +72,11 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abdelrhman Ahmed's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahman-ahmed-nassar&theme=default&hide_border=false&"/>
     </a>
 </p>
+
+
+  <p align="left">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  </p>
 
 
 <br/>
